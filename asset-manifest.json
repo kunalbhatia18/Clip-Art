@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clip-art/static/css/main.ea938798.chunk.css",
+    "main.js": "/clip-art/static/js/main.b37885ef.chunk.js",
+    "main.js.map": "/clip-art/static/js/main.b37885ef.chunk.js.map",
+    "runtime-main.js": "/clip-art/static/js/runtime-main.55d51b48.js",
+    "runtime-main.js.map": "/clip-art/static/js/runtime-main.55d51b48.js.map",
+    "static/js/2.a5cb57be.chunk.js": "/clip-art/static/js/2.a5cb57be.chunk.js",
+    "static/js/2.a5cb57be.chunk.js.map": "/clip-art/static/js/2.a5cb57be.chunk.js.map",
+    "index.html": "/clip-art/index.html",
+    "precache-manifest.5fe73677f78823616f22f445e40ee0f3.js": "/clip-art/precache-manifest.5fe73677f78823616f22f445e40ee0f3.js",
+    "service-worker.js": "/clip-art/service-worker.js",
+    "static/css/main.ea938798.chunk.css.map": "/clip-art/static/css/main.ea938798.chunk.css.map",
+    "static/js/2.a5cb57be.chunk.js.LICENSE": "/clip-art/static/js/2.a5cb57be.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55d51b48.js",
+    "static/js/2.a5cb57be.chunk.js",
+    "static/css/main.ea938798.chunk.css",
+    "static/js/main.b37885ef.chunk.js"
+  ]
+}
