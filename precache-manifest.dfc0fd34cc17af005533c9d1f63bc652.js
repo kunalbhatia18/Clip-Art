@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1d5ce2a5f02da3bae564d24c35fdf35",
+    "revision": "f848841f9f822eb6bc7fc793b8f1d3a4",
     "url": "/clip-art/index.html"
   },
   {
-    "revision": "ee49bd88c40a3b27bfde",
-    "url": "/clip-art/static/css/main.ea938798.chunk.css"
+    "revision": "27863b3b473c2bdf2de5",
+    "url": "/clip-art/static/css/main.ca5acdac.chunk.css"
   },
   {
     "revision": "c26c1004b782293bef84",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clip-art/static/js/2.a5cb57be.chunk.js.LICENSE"
   },
   {
-    "revision": "ee49bd88c40a3b27bfde",
-    "url": "/clip-art/static/js/main.b37885ef.chunk.js"
+    "revision": "27863b3b473c2bdf2de5",
+    "url": "/clip-art/static/js/main.3293b279.chunk.js"
   },
   {
     "revision": "fb6d6b2c842a80533e9c",
