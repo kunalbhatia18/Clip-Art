@@ -1,0 +1,8 @@
+button{
+    margin-top:2vh;
+    border-radius: 5%;
+    height:30px;
+    outline:none;
+    display: inline-block;
+    margin-right: 10px;
+}
